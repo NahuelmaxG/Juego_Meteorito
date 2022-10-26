@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/explosion_sfx.ogg-aaf83b9f9ace72b60c4d7ae32b8acbee.oggstr"
+
+[deps]
+
+source_file="res://Juego/SFX/explosion_sfx.ogg"
+dest_files=[ "res://.import/explosion_sfx.ogg-aaf83b9f9ace72b60c4d7ae32b8acbee.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
